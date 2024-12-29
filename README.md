@@ -134,6 +134,7 @@
 
 ## Conclusion
 
+- Worked on the project: @Madirin, @vladislav-tyukin
 - The Telegram bot was successfully implemented, providing an intuitive interface and high-quality recommendations.
 - While the system demonstrated decent metric scores, it did not fully account for all user preferences (as seen in Recall@5).
 - Future improvements could involve enhancing the model with a larger dataset, adding functionality for personalization, and incorporating neural networks.
